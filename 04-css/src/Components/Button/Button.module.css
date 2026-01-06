@@ -1,0 +1,14 @@
+.btn{
+background-color: blueviolet;
+  color: yellow;
+  padding: 5px 10px;
+margin: 5px;
+border-radius: 10px;
+width: fit-content;
+  
+  }
+
+  .btn:hover{
+    background-color: indigo;
+    cursor: pointer;
+  }
